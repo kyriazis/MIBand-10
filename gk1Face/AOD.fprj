@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FaceProject DeviceType="466">
+    <Screen Title="step_updated" Bitmap="preview.png">
+        <Widget Shape="30" Name="Image" X="0" Y="0" Width="212" Height="520" Alpha="255" Visible_Src="0" Bitmap="img_0000.png" />
+        <Widget Shape="32" Name="NumberDisplay" X="49" Y="122" Width="72" Height="66" Alpha="255" Digits="2" Alignment="0" Spacing="0" Blanking="0" Visible_Src="1011" Value_Src="1011" BitmapList="img_arr_0001_00.png|img_arr_0001_01.png|img_arr_0001_02.png|img_arr_0001_03.png|img_arr_0001_04.png|img_arr_0001_05.png|img_arr_0001_06.png|img_arr_0001_07.png|img_arr_0001_08.png|img_arr_0001_09.png|img_arr_0001_10.png" />
+    </Screen>
+</FaceProject>
