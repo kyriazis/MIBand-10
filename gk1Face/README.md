@@ -9,14 +9,14 @@ but heavily modified.
 Weather icons are powered from Tomorrow.io (from https://github.com/Tomorrow-IO-API/tomorrow-weather-codes)
 
 
-According to Gemini, below are the correspondance of weather index values with actual weather.  Not all of them are currently working:
+According to Gemini, below are the correspondance of weather index values with actual weather.  I also include my observations cased on the current weather and what appears in the MiBand weather applet.  Note: not all of them are currently working:
 
 ### Xiaomi Weather State Index Mapping
 
-| Index / ID | Weather Condition |
-| :---: | --- |
-| 0 | Sunny / Clear (Day) |
-| 1 | Cloudy |
+| Index / ID | Gemini-claimed Weather | Findings |
+| :---: | --- | --- |
+| 0 | Sunny / Clear (Day) | Clear |
+| 1 | Cloudy | Partly Cloudy |
 | 2 | Overcast |
 | 3 | Shower / Light Rain |
 | 4 | Thundershower |
